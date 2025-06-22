@@ -12,6 +12,10 @@ A simple calculator built using **Python** and **Tkinter GUI library**.
 
 - Python 3
 - Tkinter
+## Screenshot
+## 📸 Screenshot
+
+![App Screenshot](calculator.png)
 
 # How to Run
 
