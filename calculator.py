@@ -3,7 +3,7 @@ class Calculator(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Calculator")
-        self.iconbitmap("D:\Python\Calculator\icon.ico")
+        self.iconbitmap("D:\\Python\\Calculator\\icon.ico")
         self.bind("<Key>", self.on_key_press)
         self.geometry("300x400")
         self.resizable(False, False)
